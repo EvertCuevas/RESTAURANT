@@ -1,0 +1,13 @@
+{
+    "name": "evert/restaurant",
+    "description": "sistema de un restaurante",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "require": {}
+}
