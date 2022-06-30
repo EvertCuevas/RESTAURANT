@@ -9,5 +9,11 @@
             "app/helpers.php"
         ]
     },
+    "authors": [
+        {
+            "name": "Evert Cuevas",
+            "email": "ecues2017@gmail.com"
+        }
+    ],
     "require": {}
 }
